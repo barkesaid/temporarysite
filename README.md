@@ -6,4 +6,5 @@ Folder 2 : "fonts"
 Folder 3 : "images"
 Folder 4 : "js"
 Then the index file : "index.html"
+Images have been sent via email 
 
